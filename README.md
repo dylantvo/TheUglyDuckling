@@ -51,6 +51,8 @@ Follow tutorials from [Edje Electronics](https://github.com/EdjeElectronics/Tens
 * **Rishav Rajendra** - [Website](https://rishavrajendra.github.io)
 * **Benji Lee**
 * **Michael Ceraso** - [Linkedin](https://www.linkedin.com/in/soceraso/)
+* **Dylan Vo** - [Linkedin](https://www.linkedin.com/in/dylan-vo-a885231a4/)
+* **Tony Le** - [Linkedin](https://www.linkedin.com/in/tony-le-a73a96199/)
 
 #### Mechanical
 
