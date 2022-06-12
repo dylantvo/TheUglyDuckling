@@ -6,6 +6,10 @@ Video of the robot in action: https://www.youtube.com/watch?v=3CT76dNDTTw&featur
 
 ![alt text](https://github.com/RishavRajendra/TheUglyDuckling/blob/master/pictures/playingField.png)
 
+## Competition Rules
+
+The competition rules can be found here: https://site.ieee.org/r5annualmtg2018/files/2018/09/2019-Robotics-Competition-Rules.pdf
+
 ## Details
 
 These batteries were used to power the robot: https://www.batteryspace.com/samsung-lithium-18650-rechargeable-cell-3-7v-1500mah-5-55wh-23a-rate---inr18650-15m---un-38-3-passed.aspx
